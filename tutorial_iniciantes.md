@@ -7,13 +7,13 @@ Boa parte do que aprendi eu vi nessa playlist, que é bem didádica: [Learn Scra
 2. Como instalei o scrapy em outro environment, a primeira coisa a fazer é ativar o environment
 ![Ativar Environment](https://i.imgur.com/K9qgu3A.png)  
 Se você não sabe o que é um environment e quer saber, leia esse artigo: [Why you need Python environments and how to manage them with Conda](https://medium.freecodecamp.org/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c)
-3. Em seguida você pode iniciar um projeto usando o comando: `scrapy startproject spider_name`. Substituindo `spider_name` pelo nome que você quer dar para sua spider.
-![Criar Projeto](https://i.imgur.com/xIDYfW8.png)
+3. Em seguida você pode iniciar um projeto usando o comando: `scrapy startproject example`. Substituindo `example` pelo nome que você quer dar para o seu project.
+![Criar Projeto](https://i.imgur.com/vkhtrax.png)
 4. Assim, será gerado um conjunto de pastas e arquivos próprios do scrapy. Como na imagem abaixo:
-![Diretório do projeto](https://i.imgur.com/vWDjHHC.png)
-5. Utilizamos o comando `cd nome_pasta` para entrarmos no diretório do projeto. Onde `nome_pasta` é o nome da pasta do projeto.
+![Diretório do projeto](https://i.imgur.com/wJdhlSX.png)
+5. Utilizamos o comando `cd example` para entrarmos no diretório do projeto. Onde `example` é o nome da pasta do projeto.
 6. Em seguida podemos gerar nossa primeira spider usando o comando `scrapy genspider FirstSpider example.com`. Substituindo `FirstSpider` pelo nome da sua spider e `example.com` pelo site que você deseja raspar.
-![Criar primeira spider](https://i.imgur.com/VlMq5bK.png)
+![Criar primeira spider](https://i.imgur.com/SNlMSMe.png)
 7. Agora vem o trabalho propriamente dito. Você tem que procurar no código do site os elementos que queira encontrar e usá-los corretamente no código. 
 Como essa parte é mais complexa de colocar aqui, eu recomendo que você assita a [playlist indicada](https://www.youtube.com/playlist?list=PLZyvi_9gamL-EE3zQJbU5N3nzJcfNeFHU) em conjunto com esse tutorial: [Using Scrapy to Build your Own Dataset](https://towardsdatascience.com/using-scrapy-to-build-your-own-dataset-64ea2d7d4673).  
 O motivo de estudar os dois em conjunto é que a playlist fornece uma base e o tutorial complementa explicando sobre o uso do arquivo `items.py`.
