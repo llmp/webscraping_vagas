@@ -1,15 +1,14 @@
-# Vagas de Data Science no Brasil
+# Vagas de Segurança da Informação no Brasil
 
 ## Objetivo
-Esse repositório visa a coletar as vagas de Data Science nos portais de empregos brasileiros. Para informação e estudo.
+Esse repositório visa a coletar as vagas de Segurança da Informação nos portais de empregos brasileiros, com finalidade de informação e estudo.
 
 ## Contribuição
-* **Você é iniciante??? Veja o tutorial basico em [tutorial_inciantes.md](tutorial_iniciantes.md)**
-* A planilha com os sites a serem raspados está disponível em: https://goo.gl/HqdyxW
-* Para contribuir com o projeto siga as guidelines do arquivo [contributing.md](contributing.md)
-* Os contribuidores do projeto estão disponíveis no arquivo [CONTRIBUTORS](CONTRIBUTORS)
+* **Veja o tutorial para iniciantes em [tutorial_inciantes.md](tutorial_iniciantes.md)**
+* Para contribuir com o projeto veja o arquivo [contributing.md](contributing.md)
 
 ## Estudo
+* Baseado no projeto https://github.com/webscrapingvagasdatascience/webscraping_vagas
 Links com materiais para estudo estão disponíveis no arquivo [Referencias.md](Referencias.md)
 
 ## Progresso
