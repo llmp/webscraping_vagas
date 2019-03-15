@@ -9,7 +9,7 @@ Esse repositório visa a coletar as vagas de Segurança da Informação nos port
 
 ## Estudo
 * Baseado no projeto https://github.com/webscrapingvagasdatascience/webscraping_vagas
-Links com materiais para estudo estão disponíveis no arquivo [Referencias.md](Referencias.md)
+* Links com materiais para estudo estão disponíveis no arquivo [Referencias.md](Referencias.md)
 
 ## Progresso
 |Site|Etapa|
